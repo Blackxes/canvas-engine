@@ -11,4 +11,4 @@ Maybe a very careful comparison with p5 but waaaaay more naive <br/>
 
 ### Usage
 
-Documentation to use the engine follows in later iterations
+Documentation on how to use the engine follows in later iterations
